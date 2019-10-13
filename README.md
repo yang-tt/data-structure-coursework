@@ -1,5 +1,5 @@
 # data-structure-coursework
-This project contains three courseworks for data structure course.
+This project contains three courseworks for data structure course:
 
 Lab1: Establish and split a Singly Linked List.
 
